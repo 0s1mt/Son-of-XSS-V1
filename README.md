@@ -47,4 +47,5 @@ python3 pwnxss.py --help
 ## Roadmap
 
 v1 : The project is still in the testing phase and therefore may contain various deficiencies and bugs. I believe that with persistent effort and motivation, everything will improve over time. I would be very pleased if you users could reach out to me through the link below to provide feedback on any shortcomings or errors. Wishing you happy penetration testing 😊
-!(https://www.linkedin.com/in/abdulsamet-sunar-/) 
+
+https://www.linkedin.com/in/abdulsamet-sunar-/ 
